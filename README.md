@@ -18,4 +18,4 @@ Code using XGBoost to analyze this problem is saved under the Code folder.
 The Output folder includes:
 1) A ranking of most important variables in detection of fraud.
 2) Area Under Curve (AUC) which measures the model performance.
-3) Cluster in the tree
+3) Cluster in the tree.
